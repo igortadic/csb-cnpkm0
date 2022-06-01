@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://igortadic.github.io/csb-cnpkm0/static/js/main.8f926b63.chunk.js",
+    "main.js.map": "https://igortadic.github.io/csb-cnpkm0/static/js/main.8f926b63.chunk.js.map",
+    "runtime-main.js": "https://igortadic.github.io/csb-cnpkm0/static/js/runtime-main.299aa8ee.js",
+    "runtime-main.js.map": "https://igortadic.github.io/csb-cnpkm0/static/js/runtime-main.299aa8ee.js.map",
+    "static/js/2.17e1ab02.chunk.js": "https://igortadic.github.io/csb-cnpkm0/static/js/2.17e1ab02.chunk.js",
+    "static/js/2.17e1ab02.chunk.js.map": "https://igortadic.github.io/csb-cnpkm0/static/js/2.17e1ab02.chunk.js.map",
+    "index.html": "https://igortadic.github.io/csb-cnpkm0/index.html",
+    "precache-manifest.2df641a748a848ee295cad2614fa057c.js": "https://igortadic.github.io/csb-cnpkm0/precache-manifest.2df641a748a848ee295cad2614fa057c.js",
+    "service-worker.js": "https://igortadic.github.io/csb-cnpkm0/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299aa8ee.js",
+    "static/js/2.17e1ab02.chunk.js",
+    "static/js/main.8f926b63.chunk.js"
+  ]
+}
